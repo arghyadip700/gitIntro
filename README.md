@@ -1,1 +1,1 @@
-# gitIntro
+# gitIntr
